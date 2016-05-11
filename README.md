@@ -18,7 +18,7 @@ Once it ends, you can run it again to add more users.
 - Port 53 enabled by default for captive portal bypass
 
 ###I want to run my own VPN but don't have a server for that
-There are reliable providers where you can get a little VPS for even less than one buck a month.
+There are reliable providers where you can get a little VDS for even less than one buck a month.
 
 - Host-Eiweb.net ([VDS Netherlands](http://host-eiweb.net/vds-netherlands.html), [VDS Bulgaria](http://host-eiweb.net/vds-bulgaria.html), [VDS Latvia](http://host-eiweb.net/vds-latvia.html), [VDS Ukraine](http://host-eiweb.net/vds-ukraine.html), [VDS United States](http://host-eiweb.net/vds-usa.html))
 
