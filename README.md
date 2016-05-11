@@ -23,4 +23,5 @@ There are reliable providers where you can get a little VPS for even less than o
 - [Host-Eiweb.net (VPS Netherlands, VPS Bulgaria, VPS Latvia, VPS Ukraine, VPS United States)](http://host-eiweb.net/vds-netherlands.html)
 
 Minimal configuration (CPU: 1x3400 Mhz "Xeon", RAM: 512 mb, SSD: 15 Gb, 1 IPv4; 1IPv6) - $3.74/mo.
-website: [host-eiweb.net](http://host-eiweb.net/) 
+
+Website: [host-eiweb.net](http://host-eiweb.net/) 
