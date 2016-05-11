@@ -22,4 +22,4 @@ There are reliable providers where you can get a little VPS for even less than o
 
 - [Host-Eiweb.net (VPS Netherlands, VPS Bulgaria, VPS Latvia, VPS Ukraine, VPS United States)](http://host-eiweb.net/vds-netherlands.html)
 
-If you don't care about sharing an IP address with more people, you should check out the awesome [LowEndSpirit](http://lowendspirit.com/) project. They are providing IPv6-only VPS with NATed IPv4 for only 3€/year.
+Minimal configuration (CPU: 1x3400 Mhz "Xeon", RAM: 512 mb, SSD: 15 Gb) - $3.74/mo.
