@@ -8,7 +8,7 @@ This script will let you setup your own VPN server in no more than one minute, e
 ###Installation
 Run the script and follow the assistant:
 
-`wget https://raw.github.com/cwaffles/ezopenvpn/master/ezopenvpn.sh --no-check-certificate -O ezopenvpn.sh; chmod +x ezopenvpn.sh; ./ezopenvpn.sh`
+`wget https://raw.github.com/HostEiweb/openvpn/master/openvpn.sh --no-check-certificate -O openvpn.sh; chmod +x openvpn.sh; ./openvpn.sh`
 
 Once it ends, you can run it again to add more users.
 
