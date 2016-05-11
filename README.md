@@ -1,4 +1,4 @@
-##ezopenvpn
+##openvpn
 =========
 
 OpenVPN [road warrior](http://en.wikipedia.org/wiki/Road_warrior_%28computing%29) installer for Debian-based distros, based on Nyr's [openvpn-install](https://github.com/Nyr/openvpn-install) script
